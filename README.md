@@ -10,22 +10,14 @@
   </a>
 </p>
 
-
-## 🚀 Profile
-- 👨 **김광훈** | 모르는 분야에 대한 끊임없는 도전을 즐기는 개발자 
-- 📧 **Email**: hosookkh@gmail.com  
-- 📞 **Phone**: 010-8668-9294  
-- 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
-- 🎓 **학력**: 연성대학교 군사학과 졸업 (3.3 / 4.5)
-
 <!--프로필-->
 <details open> 
 <summary><h2>🚀 Profile </h2></summary> 
-  <p>👨 **SEOJIN CHOI** | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
-  - 📧 **Email**: hosookkh@gmail.com  
-  - 📞 **Phone**: 010-8668-9294  
-  - 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
-  - 🎓 **학력**: 연성대학교 군사학과 졸업 (3.3 / 4.5)
+  <p>👨 SEOJIN CHOI | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
+  <p>📧 Email: qkzkel17@gamil.com</p>
+  <p>📞 **Phone**: 010</p>
+  <p>🌐 **Portfolio**: [https://seo7van.github.io/](https://seo7van.github.io/)</p>
+  - 🎓 **학력**: 백석대학교 졸업
 </details>
   
 <!-- 프로젝트 -->
