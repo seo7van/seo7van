@@ -27,7 +27,7 @@
 <details open> 
   <summary><h2>📚 SKILL</h2></summary>
     
-  🖥️ **Backend**  
+  🎨 **Frontend**
   	  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   	  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   	  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -38,7 +38,7 @@
   	  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   	  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white" />
   
-  🎨 **Frontend** <br>
+  🎨 **Frontend** 
   	  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   	  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
   	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
