@@ -10,8 +10,10 @@
   </a>
 </p>
 
-
-  ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+<!--총 깃허브-->
+<details open> 
+(https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+</details>
 
 <!-- 프로젝트 -->
 <details open> 
