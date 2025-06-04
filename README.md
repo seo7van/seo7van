@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=FA7000&vCenter=true&pause=1000&size=22" />
   </a>
   <a href="https://github.com/seo7van">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=FA7000&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-어떤%20문제도%20도전하는%20개발자;&font=Fira%20Code&center=true&width=440&height=45&color=FA7000&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
