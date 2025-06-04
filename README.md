@@ -9,15 +9,17 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=FA7000&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
+--
 <!--프로필-->
 ## 🚀 Profile  
-- 👨 **SEOJIN CHOI** | 어떤 문제도 도전하는 개발자,
-인내심과 집념을 가진 개발자![image](https://github.com/user-attachments/assets/58a762ff-c962-4638-8e0a-35a1ad1401bd)
-- 📧 **Email**: hosookkh@gmail.com  
-- 📞 **Phone**: 010-8668-9294  
-- 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
-- 🎓 **학력**: 연성대학교 군사학과 졸업 (3.3 / 4.5)
+  - 👨 **SEOJIN CHOI** | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자
+  - 📧 **Email**: hosookkh@gmail.com  
+  - 📞 **Phone**: 010-8668-9294  
+  - 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
+  - 🎓 **학력**: 연성대학교 군사학과 졸업 (3.3 / 4.5)
 
+  
 <!-- 프로젝트 -->
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
