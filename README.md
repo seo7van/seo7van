@@ -14,7 +14,7 @@
 <!--프로필-->
 <details open> 
 <summary><h2>🚀 Profile </h2></summary> 
-  - 👨 **SEOJIN CHOI** | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자
+  <p>👨 **SEOJIN CHOI** | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
   - 📧 **Email**: hosookkh@gmail.com  
   - 📞 **Phone**: 010-8668-9294  
   - 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
