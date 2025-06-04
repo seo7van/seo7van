@@ -59,6 +59,7 @@
   	  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 </details>
 
+<br>
 
 <!--공룡게임-->
 <div align="center">
