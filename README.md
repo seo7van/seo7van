@@ -7,9 +7,7 @@
 <p align="center">
   <a href="https://github.com/seo7van">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=FA7000&vCenter=true&pause=1000&size=22" />
-    <p>👨 SEOJIN CHOI | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
   </a>
-  <p>👨 SEOJIN CHOI | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
 </p>
 
 
