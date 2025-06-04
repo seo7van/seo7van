@@ -6,7 +6,7 @@
 <p align="center">
   <!--헤더설명-->
   <a href="https://github.com/seo7van">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=FF69B4&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
