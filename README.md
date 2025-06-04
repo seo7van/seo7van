@@ -19,6 +19,7 @@
     </a>
 
 
+</details>
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -32,5 +33,3 @@
   &icon_color=F8D866
   &show_icons=false" 
   alt="readme-typing-svg"></a>
-
-</details>
