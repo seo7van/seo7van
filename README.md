@@ -4,7 +4,7 @@
     &section=header
     &text=Hellow%20SEOJIN%20World!
     &fontSize=70
-    &stroke=FA7000" />
+    &stroke=FA7000"/>
 </div>
 
 
