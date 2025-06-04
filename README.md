@@ -14,9 +14,9 @@
 <details open> 
 <summary><h2>🚀 Profile </h2></summary> 
   <p>👨 SEOJIN CHOI | 어떤 문제도 도전하는 개발자,인내심과 집념을 가진 개발자</p>
-  <p>📧 Email: qkzkel17@gamil.com</p>
-  <p>📞 **Phone**: 010</p>
-  <p>🌐 **Portfolio**: [https://seo7van.github.io/](https://seo7van.github.io/)</p>
+  <p>📧 qkzkel17@gamil.com</p>
+  <p>📞 010</p>
+  <p>🌐 [https://seo7van.github.io/](https://seo7van.github.io/)</p>
   - 🎓 **학력**: 백석대학교 졸업
 </details>
   
