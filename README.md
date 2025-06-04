@@ -8,7 +8,6 @@
   <a href="https://github.com/seo7van">
     <img src="https://readme-typing-svg.demolab.com/
       ?lines=Full-stack%20web%20and%20app%20developer;
-      Always%20learning%20new%20things
       &font=Fira%20Code
       &center=true
       &width=440
