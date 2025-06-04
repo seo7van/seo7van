@@ -22,7 +22,9 @@
   <p>🌐 [https://seo7van.github.io/](https://seo7van.github.io/)</p>
   - 🎓 **학력**: 백석대학교 졸업
 </details>
-  
+
+  ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+
 <!-- 프로젝트 -->
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
