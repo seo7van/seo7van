@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<!--총 깃허브-->
-<details open> 
-(https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
-</details>
-
 <!-- 프로젝트 -->
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
