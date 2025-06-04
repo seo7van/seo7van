@@ -26,6 +26,7 @@
 <!--보유 스킬-->
 <details open> 
   <summary><h2>📚 SKILL</h2></summary>
+  
   🗂️ **Database**  
     <div>
     	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
